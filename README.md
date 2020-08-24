@@ -7,11 +7,7 @@ I work as a Front End but I have already ventured into the logistics and adminis
 > [orivelton.com](https://orivelton.com/) :bulb:
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=orivelton&count_private=true&show_icons=true&theme=dark)
+Github stats | Top Langs
+--- | ---
+![Github stats](https://github-readme-stats.vercel.app/api?username=orivelton&count_private=true&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orivelton&theme=dark&hide=php)](https://github.com/orivelton)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orivelton&theme=dark&hide=php)](https://github.com/orivelton)
-
-
-
-<!--
-**orivelton/orivelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
