@@ -6,7 +6,7 @@ I work as a Front End but I have already ventured into the logistics and adminis
 
 > [orivelton.com](https://orivelton.com/) :bulb:
 
-Time Zone: 24/7
+
 
 Github | Top Langs
 --- | ---
