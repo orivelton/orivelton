@@ -10,5 +10,5 @@ I work as a Front End but I have already ventured into the logistics and adminis
 
 Github | Top Langs
 --- | ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=orivelton&count_private=true&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orivelton&hide=php&theme=dark)](https://github.com/orivelton)
+![Github stats](https://github-readme-stats.vercel.app/api?username=orivelton&count_private=true&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orivelton&hide=php)](https://github.com/orivelton)
 
