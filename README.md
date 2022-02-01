@@ -6,7 +6,7 @@ I have already ventured into the logistics and administrative area but found mys
 
 > [orivelton.com](https://orivelton.com/)
 
-[![Linkedin Icon](./linkedin.svg)](https://www.linkedin.com/in/orivelton/)
+> [![Linkedin Icon](./linkedin.svg)](https://www.linkedin.com/in/orivelton/)
 
 
 Github | Top Langs
